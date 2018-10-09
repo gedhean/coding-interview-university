@@ -676,7 +676,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - inorder (DFS: left, self, right)
         - postorder (DFS: left, right, self)
         - preorder (DFS: self, left, right)
-
+    - [X] Implement:
+        - [X] BFS in binary tree
+        - [X] DFS in binary tree
+            - [X] Preorder
+            - [X] Inorder
+            - [X] Postorder
 - ### Binary search trees: BSTs
     - [X] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
     - [ ] [Series (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
